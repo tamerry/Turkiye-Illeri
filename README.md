@@ -1,6 +1,6 @@
-# Turkiye-İlleri
+# Türkiye Şehir Listesi SQL Tablosu
 
-Türkiye Şehir Listesi SQL Tablosu
+
 Uygulamalarında Türkiye şehir listesi kullanan kullanıcıların kolaylıkla SQL Server veritabanlarında kullanabilecekleri şehir isimleri listesi script'ini burada bulabilirsiniz.
 
 SQL kod önce veritabanında City isimli bir tablo olup olmadığını kontrol ediyor.
