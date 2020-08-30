@@ -1,2 +1,2 @@
-# Turkiye-Illeri
+# Turkiye-İlleri
 Türkiye İlleri
